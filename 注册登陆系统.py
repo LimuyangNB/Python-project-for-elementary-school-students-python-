@@ -77,7 +77,7 @@ while True:
             b = float(input("请输入第二个数字："))
             print("输入你要进行的操作")
             print("1.加法 2.减法 3.乘法 4.除法")
-            import 使用内容
+            
             c = input()
             if c == '1':
                 print(a + b)
