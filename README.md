@@ -1,1 +1,0 @@
-# Python-project-for-elementary-school-students-python-
